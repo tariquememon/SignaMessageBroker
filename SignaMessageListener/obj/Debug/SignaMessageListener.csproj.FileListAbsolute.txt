@@ -1,0 +1,9 @@
+C:\Development\Training\SignaMessageListener\SignaMessageListener\bin\Debug\SignaMessageListener.exe.config
+C:\Development\Training\SignaMessageListener\SignaMessageListener\bin\Debug\SignaMessageListener.exe
+C:\Development\Training\SignaMessageListener\SignaMessageListener\bin\Debug\SignaMessageListener.pdb
+C:\Development\Training\SignaMessageListener\SignaMessageListener\obj\Debug\SignaMessageListener.csproj.CoreCompileInputs.cache
+C:\Development\Training\SignaMessageListener\SignaMessageListener\obj\Debug\SignaMessageListener.exe
+C:\Development\Training\SignaMessageListener\SignaMessageListener\obj\Debug\SignaMessageListener.pdb
+C:\Development\Training\SignaMessageListener\SignaMessageListener\obj\Debug\SignaMessageListener.csprojAssemblyReference.cache
+C:\Development\Training\SignaMessageListener\SignaMessageListener\bin\Debug\ZetaIpc.dll
+C:\Development\Training\SignaMessageListener\SignaMessageListener\obj\Debug\SignaMessageListener.csproj.CopyComplete
